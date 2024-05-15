@@ -4,7 +4,7 @@
 - 🔭 Busco trabalhar com programação
 - 📓 Estou aprendendo Java
 - 📧 E-mail de contato: williamrodrigueslopess@gmail.com
-### Hobbyes
+### Hobbies
 - 📷 Fotografia
 - 🎸 Música
 - 💻 Tecnologia
