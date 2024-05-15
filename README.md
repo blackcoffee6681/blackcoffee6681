@@ -1,16 +1,13 @@
-### Hi there 👋
+### Olá visitante
 
-<!--
-**blackcoffee6681/blackcoffee6681** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨🏽‍💻 Técnico de informática
+- 🔭 Busco trabalhar com programação
+- 📓 Estou aprendendo Java
+- 📧 E-mail de contato: williamrodrigueslopess@gmail.com
+### Hobbyes
+- 📷 Fotografia
+- 🎸 Música
+- 💻 Tecnologia
+- 🎮 Jogos
+- 📖 Leitura
+- 🥋 Taekwondo
