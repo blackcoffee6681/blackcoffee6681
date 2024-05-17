@@ -2,7 +2,7 @@
 
 - 👨🏽‍💻 Técnico de informática
 - 🔭 Busco trabalhar com programação
-- 📓 Estou aprendendo Java
+- 📓 Estou aprendendo: Java, Spring boot, Java Script
 - 📧 E-mail de contato: williamrodrigueslopess@gmail.com
 ### Hobbies
 - 📷 Fotografia
